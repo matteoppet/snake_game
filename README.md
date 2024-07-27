@@ -14,10 +14,10 @@ gcc snake.c -o game.exe
 ./game.exe
 ```
 
-> IMPORTANT: Running the game will clean the terminal<br/>
-> Using GCC compiler<br/>
-> Tested on Windows: WORKS<br/>
-> Not tested on Linux: ?<br/>
+> - IMPORTANT: Running the game will clean the terminal<br/>
+> - Using GCC compiler<br/>
+> - Tested on Windows: WORKS<br/>
+> - Not tested on Linux: ?<br/>
 
 # Preview game
 ![Screenshot preview game](/preview_game.png)
