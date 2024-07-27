@@ -5,12 +5,6 @@
 #include <windows.h>
 #include <conio.h>
 
-/*
-spawn apples
-snake when eats apples, grows
-the following part of the snake follow the last index of the previous part of the snake
-*/
-
 
 // global var
 #define ROWS 30
