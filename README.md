@@ -9,5 +9,8 @@ How to run:<br/>
 Tested on Windows<br/>
 Not tested on Linux
 
+# Preview game
+![Screenshot preview game](/preview_game.png)
+
 # Credits
 Conio library for windows provided by [Turbo Conio](https://github.com/thradams/conio)
